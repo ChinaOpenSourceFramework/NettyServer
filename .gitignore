@@ -1,0 +1,20 @@
+# java class files
+*.class
+
+# package files 
+*.jar
+*.war
+
+# eclipse files
+.classpath
+.project
+.settings/
+.springBeans
+
+# building target files
+target/
+
+##idea
+*.iml
+.idea/
+/.idea
